@@ -1,0 +1,11 @@
+.score-board h2 {
+    color: white;
+    margin: 0 0 10px;
+    text-align: center;
+  }
+  
+  .score-board p {
+    color: lightgray;
+    margin: 5px 0;
+  }
+  
